@@ -1,4 +1,4 @@
-#Original AE-RNN architecture
+#Original AE-RNN architecture by (Jamarz et al. 2023: https://doi.org/10.1007/978-3-031-36027-5_42)
 
 import torch.nn as nn
 import torch
