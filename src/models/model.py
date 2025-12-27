@@ -1,3 +1,5 @@
+#Original AE-RNN architecture
+
 import torch.nn as nn
 import torch
 
