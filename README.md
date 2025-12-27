@@ -2,9 +2,7 @@
 
 
 ## Overview
-
-This is the repository containing weights, scripts and results from my master thesis on incorporating multiple (mostly epistemic) uncertainty quantification (UQ) methods in a neural network surrogate for a multiscale coupled MD-CFD flow prediction model.
-
+Master thesis repository on incorporating multiple (primarily epistemic) uncertainty quantification methods into an existing neural-network surrogate (AE‑RNN) for a multiscale coupled MD–CFD flow prediction model, including trained weights, some helpful scripts for data generation, wrappers and visualization, and thesis experiment results. The baseline AE‑RNN architecture (model.py) is based on Jamarz et al., 2020 (https://doi.org/10.1016/j.compbiolchem.2020.107377)
 
 ## Repository structure
 
