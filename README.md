@@ -1,7 +1,10 @@
-#Flow-UQ-Thesis
+# Flow-UQ-Thesis
 
-[Sketch_1-2.pdf](https://github.com/user-attachments/files/29524007/Sketch_1-2.pdf)
+## Architecture sketch
 
+![AE-RNN surrogate and UQ pipeline overview](docs/Sketch_1-2.png)
+
+Annotated PDF: [`docs/Sketch_1-2.pdf`](docs/Sketch_1-2.pdf)
 
 ## Overview
 Master thesis repository on incorporating multiple (primarily epistemic) uncertainty quantification methods into an existing neural-network surrogate (AE‑RNN) for a multiscale coupled MD–CFD flow prediction model, including trained weights, some helpful scripts for data generation, wrappers and visualization, and thesis experiment results.
